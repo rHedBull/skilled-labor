@@ -7,7 +7,7 @@
     {
       "name": "skilled-labor",
       "source": "./",
-      "description": "Development skills: documentation updates, PR reviews",
+      "description": "Development skills: documentation updates, PR reviews, wave server orchestration",
       "version": "1.0.0",
       "strict": false
     }

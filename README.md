@@ -6,6 +6,7 @@ Claude Code plugin with development skills.
 
 - **update-docs** — Create and update project documentation to match current code
 - **pr-review** — Review GitHub PRs with multi-agent analysis and confidence scoring
+- **wave-server** — Interact with a Wave Server to manage projects, sequences, plans, and executions
 
 ## Install
 
